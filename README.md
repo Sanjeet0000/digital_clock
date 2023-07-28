@@ -1,6 +1,6 @@
 
-live link :
-https://sanjeet0000.github.io/digital_clock/
+# live link :
+# https://sanjeet0000.github.io/digital_clock/
 
 ![Screenshot](https://github.com/Sanjeet0000/digital_clock/blob/master/images/Screenshot1.png)
 
